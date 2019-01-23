@@ -1,1 +1,1 @@
-Folder for R basic R code
+Folder for necessary R files
